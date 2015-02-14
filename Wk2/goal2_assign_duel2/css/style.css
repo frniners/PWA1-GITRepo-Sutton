@@ -12,22 +12,22 @@ body{
 	height: 100%;
 }
 
-#kabal{
+#cuddles{
 	margin: 0px 0px 0px 15%;
 	float:left;
 }
 
-#kratos{
+#toothy{
 	margin: 0px 0px 0px 59%;
 	float:left;
 }
 
-#kabal p{
+#cuddles p{
 	font-family: arial;
 	font-size:  25px;
 }
 
-#kratos p{
+#toothy p{
 	font-family: arial;
 	font-size:  25px;
 }
