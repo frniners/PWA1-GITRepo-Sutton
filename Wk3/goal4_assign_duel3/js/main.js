@@ -2,9 +2,6 @@
 // 2-20-15
 // Homework Assignment Duel3 Week3
 
-// kabal
-// kratos
-
 
 (function(){ //Executes function for code
 
