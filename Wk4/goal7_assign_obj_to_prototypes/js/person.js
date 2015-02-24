@@ -1,5 +1,6 @@
 /**
- * Created by the JavaScript Development Team
- * Class: PWA
- * Goal: Goal7
+ * Week 4 Homework: Analyze Objects
+ * Jerry Sutton
+ * 02/26/15
+ * Person.js file
  */
