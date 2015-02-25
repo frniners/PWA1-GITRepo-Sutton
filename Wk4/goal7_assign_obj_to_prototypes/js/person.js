@@ -9,7 +9,7 @@
 
     window.Person=Person;   //global object for main.js
 
-    Person.jobs = ["Teacher","Librarian","Nurse","Programmer"];   //defines different jobs for each person
+    Person.jobs = ["Accountant","Carpenter","Nurse","Programmer"];   //defines different jobs for each person
     Person.actions = ["Writing","Sleeping","Working"];            //defines actions for each person
 
     function Person(name,row) {                    //  function that generates the person's status and jobs'
